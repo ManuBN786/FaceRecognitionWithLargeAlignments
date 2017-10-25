@@ -12,7 +12,8 @@ Requirements:
 
 How to run ?
 
-1. Open Face Detectrion.py and in line 59 mention the path like 'imgdb/Person_1/' and run it to record the face of the first person. Make sure you do all the possible rotations and tilts in all the directions.
+1. Open Face Detectrion.py and in line 59 mention the path like 'imgdb/Person_1/' and run it to record the face of the first person. 
+Make sure you do all the possible rotations and tilts in all the directions.
 Repeat the same for Person_2 and Person_3 etc. Create seperate folders for each inside the 'imgdb' folder.
 
 2. Now open config.py and mention the paths of .xmls and give the training image size. Smaller the size faster the training. (We dont use Harr Cascades at all, but still needed if Dlib is not installed). Download DLib's 68 points face lands marks trained model from "http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2" and put it in the same folder.
