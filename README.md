@@ -27,5 +27,5 @@ The results are displayed in the window.
 
 5. Preferebly use a large training set with a variety of tilts and rotations in faces.
 
-Conclusion: Dlib outsmarts Haar Cascades in all the ways.
+
 
