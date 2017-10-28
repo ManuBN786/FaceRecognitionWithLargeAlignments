@@ -27,5 +27,9 @@ The results are displayed in the window.
 
 5. Preferebly use a large training set with a variety of tilts and rotations in faces.
 
+6. Demo Video 1 : https://www.youtube.com/watch?v=KMa60Qu2DZo
+
+7. Demo Video 2: https://www.youtube.com/watch?v=SyF4u90OfXE
+
 
 
